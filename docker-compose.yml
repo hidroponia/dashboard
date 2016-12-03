@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  dashboard:
+    image: krolow/node:6.9.1
+    command: npm run start:dev
+    volumes:
+      - ./:/app

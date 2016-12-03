@@ -1,0 +1,15 @@
+{
+  "name": "hidroponia-dashboard",
+  "version": "1.0.0",
+  "description": "Hydroponic monitoring dashboard",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
